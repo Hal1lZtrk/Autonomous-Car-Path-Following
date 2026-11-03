@@ -1,0 +1,24 @@
+{
+  "pure_pursuit": {
+    "completed": true,
+    "lap_time_s": 28.150000000000002,
+    "mean_speed_ms": 22.30905861456483,
+    "rms_cross_track_m": 1.631192144040151,
+    "max_cross_track_m": 2.1423258602363755,
+    "time_off_track_pct": 0.0,
+    "max_lateral_accel_ms2": 7.3733327860441955,
+    "max_speed_ms": 26.773850744730755,
+    "max_steering_deg": 3.138876552177221
+  },
+  "stanley": {
+    "completed": true,
+    "lap_time_s": 27.900000000000002,
+    "mean_speed_ms": 22.5089605734767,
+    "rms_cross_track_m": 0.6175027764335637,
+    "max_cross_track_m": 0.7791160850001412,
+    "time_off_track_pct": 0.0,
+    "max_lateral_accel_ms2": 7.332398775971465,
+    "max_speed_ms": 26.7784150959645,
+    "max_steering_deg": 4.918187296904544
+  }
+}

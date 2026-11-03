@@ -1,0 +1,258 @@
+[
+  {
+    "track": "circle",
+    "controller": "pure_pursuit",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 27.740000000000002,
+      "mean_speed_ms": 22.638788752703675,
+      "rms_cross_track_m": 0.0008300970416603639,
+      "max_cross_track_m": 0.0022103083323318368,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.262478054899781,
+      "max_speed_ms": 26.944446804689832,
+      "max_steering_deg": 1.574242480594136
+    }
+  },
+  {
+    "track": "circle",
+    "controller": "pure_pursuit",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 28.150000000000002,
+      "mean_speed_ms": 22.30905861456483,
+      "rms_cross_track_m": 1.631192144040151,
+      "max_cross_track_m": 2.1423258602363755,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.3733327860441955,
+      "max_speed_ms": 26.773850744730755,
+      "max_steering_deg": 3.138876552177221
+    }
+  },
+  {
+    "track": "circle",
+    "controller": "stanley",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 27.650000000000002,
+      "mean_speed_ms": 22.712477396021697,
+      "rms_cross_track_m": 0.3624163166625875,
+      "max_cross_track_m": 0.41478918315648783,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 8.653921254672222,
+      "max_speed_ms": 26.944446804689832,
+      "max_steering_deg": 4.852884733393255
+    }
+  },
+  {
+    "track": "circle",
+    "controller": "stanley",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 27.900000000000002,
+      "mean_speed_ms": 22.5089605734767,
+      "rms_cross_track_m": 0.6175027764335637,
+      "max_cross_track_m": 0.7791160850001412,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.332398775971465,
+      "max_speed_ms": 26.7784150959645,
+      "max_steering_deg": 4.918187296904544
+    }
+  },
+  {
+    "track": "square",
+    "controller": "pure_pursuit",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 53.35,
+      "mean_speed_ms": 21.19962511715089,
+      "rms_cross_track_m": 0.11618373833606559,
+      "max_cross_track_m": 0.3727137089991004,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.766181328855457,
+      "max_speed_ms": 33.93502934463392,
+      "max_steering_deg": 4.047324298246213
+    }
+  },
+  {
+    "track": "square",
+    "controller": "pure_pursuit",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 53.81,
+      "mean_speed_ms": 21.01839806727374,
+      "rms_cross_track_m": 0.6921798562071809,
+      "max_cross_track_m": 1.7943898013425117,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 8.434379473233623,
+      "max_speed_ms": 33.83629715331779,
+      "max_steering_deg": 6.647758112861916
+    }
+  },
+  {
+    "track": "square",
+    "controller": "stanley",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 53.160000000000004,
+      "mean_speed_ms": 21.275395033860043,
+      "rms_cross_track_m": 0.3233453279146752,
+      "max_cross_track_m": 0.6825139566551435,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 8.811261794001574,
+      "max_speed_ms": 33.90950452399374,
+      "max_steering_deg": 4.516143319652137
+    }
+  },
+  {
+    "track": "square",
+    "controller": "stanley",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 53.43,
+      "mean_speed_ms": 21.16788321167883,
+      "rms_cross_track_m": 0.0818315230514819,
+      "max_cross_track_m": 0.19523692717111413,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.87725768885941,
+      "max_speed_ms": 33.83125851027118,
+      "max_steering_deg": 6.729102826214566
+    }
+  },
+  {
+    "track": "trapezoid",
+    "controller": "pure_pursuit",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 47.29,
+      "mean_speed_ms": 19.89849862550222,
+      "rms_cross_track_m": 0.12409350064663281,
+      "max_cross_track_m": 0.3795063907812903,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.7520665422315,
+      "max_speed_ms": 32.10000882080371,
+      "max_steering_deg": 4.046589287302917
+    }
+  },
+  {
+    "track": "trapezoid",
+    "controller": "pure_pursuit",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 47.730000000000004,
+      "mean_speed_ms": 19.715063901110412,
+      "rms_cross_track_m": 0.7312888942400375,
+      "max_cross_track_m": 1.785815694039171,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 8.421160277987559,
+      "max_speed_ms": 32.10000882080371,
+      "max_steering_deg": 6.640282369507743
+    }
+  },
+  {
+    "track": "trapezoid",
+    "controller": "stanley",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 47.1,
+      "mean_speed_ms": 19.97876857749469,
+      "rms_cross_track_m": 0.34363057893029897,
+      "max_cross_track_m": 0.6843281757875902,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 8.648685541084411,
+      "max_speed_ms": 32.10000882080371,
+      "max_steering_deg": 4.542354601934871
+    }
+  },
+  {
+    "track": "trapezoid",
+    "controller": "stanley",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 47.36,
+      "mean_speed_ms": 19.86908783783784,
+      "rms_cross_track_m": 0.08451170351997037,
+      "max_cross_track_m": 0.19583161613145983,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.806928552212436,
+      "max_speed_ms": 32.10000882080371,
+      "max_steering_deg": 6.665963015292397
+    }
+  },
+  {
+    "track": "imola",
+    "controller": "pure_pursuit",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 156.25,
+      "mean_speed_ms": 31.4176,
+      "rms_cross_track_m": 0.1302239479998409,
+      "max_cross_track_m": 0.396199325453076,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 8.00726940191529,
+      "max_speed_ms": 60.48695036717773,
+      "max_steering_deg": 6.3091960200481445
+    }
+  },
+  {
+    "track": "imola",
+    "controller": "pure_pursuit",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 157.70000000000002,
+      "mean_speed_ms": 31.1287254280279,
+      "rms_cross_track_m": 1.530211801644608,
+      "max_cross_track_m": 7.532793255005072,
+      "time_off_track_pct": 1.1160431198478122,
+      "max_lateral_accel_ms2": 8.952489877744403,
+      "max_speed_ms": 60.445962334850115,
+      "max_steering_deg": 8.172448883921586
+    }
+  },
+  {
+    "track": "imola",
+    "controller": "stanley",
+    "model": "kinematic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 156.02,
+      "mean_speed_ms": 31.463914882707343,
+      "rms_cross_track_m": 0.2700109938962787,
+      "max_cross_track_m": 0.8740643006818044,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 8.8867024872179,
+      "max_speed_ms": 60.486946783489536,
+      "max_steering_deg": 7.494582991801979
+    }
+  },
+  {
+    "track": "imola",
+    "controller": "stanley",
+    "model": "dynamic",
+    "metrics": {
+      "completed": true,
+      "lap_time_s": 156.8,
+      "mean_speed_ms": 31.30739795918367,
+      "rms_cross_track_m": 0.4892413197451204,
+      "max_cross_track_m": 2.4167630213559215,
+      "time_off_track_pct": 0.0,
+      "max_lateral_accel_ms2": 7.977639996853924,
+      "max_speed_ms": 60.406554183916356,
+      "max_steering_deg": 8.701631057309678
+    }
+  }
+]
